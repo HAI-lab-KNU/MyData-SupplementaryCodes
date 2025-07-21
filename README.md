@@ -3,7 +3,9 @@ This repository is for supplementary codes used to explore and analyze the Oppor
 
 Data descriptor URL: ______________________
 
-Dataset URL: https://doi.org/10.5281/zenodo.15922655
+Dataset (without image and sound data) URL: https://doi.org/10.5281/zenodo.15922655
+
+For those who need access to the image and sound data, please refer to the following URL: ______________________
 
 # Enironment 
 We have run this code under the environment as below:
