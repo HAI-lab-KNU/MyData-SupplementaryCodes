@@ -21,7 +21,7 @@ RAM: 32GB
 In addition, you need to install [conda](https://conda.io/projects/conda/en/latest/index.html) for managing packages and virtual environment.
 
 # HOW-TO
-Download the Opportune moment dataset. 
+Download the Dataset (without image and sound data). 
 
 Download this repository
 ```console
