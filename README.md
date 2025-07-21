@@ -1,26 +1,31 @@
-# Supplementary Codes for the TD2D
-This repository is for supplementary codes used to explore and analyze the TD2D dataset.
+# Supplementary Codes for the Opportune moment dataset
+This repository is for supplementary codes used to explore and analyze the Opportune moment dataset.
 
-Data descriptor URL: https://www.nature.com/articles/s41597-025-04781-8
+Data descriptor URL: ______________________
 
-Dataset URL: https://doi.org/10.5281/zenodo.14185964
+Dataset URL: https://doi.org/10.5281/zenodo.15922655
 
-Simulator URL: https://github.com/HAI-lab-KNU/L2-vehicle-simulator.git
-
-
-# Environment
+# Enironment 
 We have run this code under the environment as below:
 
-OS: macOS sonoma 14.5 
-System: Apple M3 Max with 36GB RAM.
+OS: Windows 10
+
+CPU: Intel(R) Core(TM) Ultra 7 155H 3.80 GHz  (16-Core)
+
+RAM: 32GB
+
+* This is not mandatory; you can run this code although you have the smaller number of cores or RAM.
 
 In addition, you need to install [conda](https://conda.io/projects/conda/en/latest/index.html) for managing packages and virtual environment.
 
 # HOW-TO
-Download the TD2D dataset.
+Download the Opportune moment dataset. 
 
-Download this repository.
-
+Download this repository
+```console
+$ git clone https://github.com/GolibID/smartspeaker.git
+$ cd smartspeaker
+```
 Replicate our conda environment [environment.yml](environment.yml), referring to this.
 
 Run your own Jupyter environment.
