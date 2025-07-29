@@ -1,0 +1,16 @@
+name: technical_validation_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - catboost
+  - imbalanced-learn
+  - tqdm
+  - jupyter
+  - pip
