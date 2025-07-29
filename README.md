@@ -1,4 +1,4 @@
-# Supplementary Codes for the Opportune moment dataset
+# Supplementary Codes for the MyData
 This repository is for supplementary codes used to explore and analyze the Opportune moment dataset.
 
 Data descriptor URL: ______________________
