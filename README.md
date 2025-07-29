@@ -25,8 +25,8 @@ Download the Dataset (without image and sound data).
 
 Download this repository
 ```console
-$ git clone https://github.com/GolibID/smartspeaker.git
-$ cd smartspeaker
+$ git clone https://github.com/HAI-lab-KNU/MyData-SupplementaryCodes.git
+$ cd MyData-SupplementaryCodes
 ```
 Replicate our conda environment [environment.yml](environment.yml), referring to this.
 
