@@ -5,8 +5,6 @@ Data descriptor URL: ______________________
 
 Dataset (without image and sound data) URL: https://doi.org/10.5281/zenodo.15922655
 
-For those who need access to the image and sound data, please refer to the following URL: ______________________
-
 # Enironment 
 We have run this code under the environment as below:
 
