@@ -35,7 +35,7 @@ Run your own Jupyter environment.
 Then, open [technical_validation.ipynb](technical_validation.ipynb).
 
 ## Optional 
-In [technical_validation.ipynb](technical_validation.ipynb), we defined LONG_INTERACTION with a 3 minute threshold in our study. 
+In [technical_validation.ipynb](technical_validation.ipynb), we used LONG_INTERACTION defined with a 3 minute threshold in our study. 
 
 Researchers using our dataset can redefine the LONG_INTERACTION threshold to fit their needs in [interaction_thresholds.ipynb](interaction_thresholds.ipynb), it can be adjusted as follows: 
 
