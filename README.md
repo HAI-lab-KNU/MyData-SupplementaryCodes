@@ -33,3 +33,14 @@ Make sure that the Dataset folder (which contains ParticipantInfo.csv, Service.c
 Run your own Jupyter environment.
 
 Then, open [technical_validation.ipynb](technical_validation.ipynb).
+
+## Optional 
+In [technical_validation.ipynb](technical_validation.ipynb), we defined LONG_INTERACTION with a 3 minute threshold in our study. 
+
+Researchers using our dataset can redefine the LONG_INTERACTION threshold to fit their needs in [interaction_thresholds.ipynb](interaction_thresholds.ipynb), it can be adjusted as follows: 
+
+* for 5 minutes -> continue-to-nextInquiry2
+* for 7 minutes -> continue-to-nextInquiry3
+* for 9 minutes -> continue-to-nextInquiry4
+
+After changing the threshold and running the [interaction_thresholds.ipynb](interaction_thresholds.ipynb), the Interruptibility.csv file in the Dataset folder will be updated; it can then be used in [technical_validation.ipynb](technical_validation.ipynb).
