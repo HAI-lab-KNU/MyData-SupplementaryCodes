@@ -28,7 +28,7 @@ $ cd MyData-SupplementaryCodes
 ```
 Replicate our conda environment [environment.yml](environment.yml), referring to this.
 
-Make sure that the Dataset folder (which contains ParticipantInfo.csv, Service.csv, ContextualFactor.csv, and Availability.csv) and the [technical_validation.ipynb](technical_validation.ipynb) notebook are placed in the same directory.
+Make sure that the Dataset folder (which contains UserInfo.csv, ServiceSession.csv, UserContexts.csv, and Availability.csv) and the [technical_validation.ipynb](technical_validation.ipynb) notebook are placed in the same directory.
 
 Run your own Jupyter environment.
 
