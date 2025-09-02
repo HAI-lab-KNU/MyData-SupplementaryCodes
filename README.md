@@ -30,9 +30,11 @@ Replicate our conda environment [environment.yml](environment.yml), referring to
 
 Make sure that the Dataset folder (which contains UserInfo.csv, ServiceSession.csv, UserContexts.csv, and Availability.csv) and the [technical_validation.ipynb](technical_validation.ipynb) notebook are placed in the same directory.
 
-Run your own Jupyter environment.
+Please make sure to set the PATH_DATA variable to the directory where the dataset files are stored on your computer or server. By default, our code assumes the dataset is located in a folder named Dataset in the current working directory.
 
-Then, open [technical_validation.ipynb](technical_validation.ipynb).
+Then run your own Jupyter environment.
+
+Open [technical_validation.ipynb](technical_validation.ipynb).
 
 ## Optional 
 In [technical_validation.ipynb](technical_validation.ipynb), we used LONG_INTERACTION defined with a 3 minute threshold in our study. 
